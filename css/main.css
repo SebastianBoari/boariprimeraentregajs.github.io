@@ -1,0 +1,41 @@
+body{
+    background-color: #222222;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    padding: 64px;
+    
+}
+header h1{
+    color: blueviolet;
+    font-size: 64px;
+}
+main{
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 64px;
+    padding: 64px;
+}
+main article{
+    padding: 32px;
+    border: blueviolet 3px solid;
+}
+main article h2{
+    color: blueviolet;
+    font-size: 48px;
+}
+main article p{
+    color: whitesmoke;
+    font-size: 28px;
+}
+footer{
+    display: flex;
+    align-items: center;
+    padding: 64px;
+}
+footer h3{
+    color: blueviolet;
+    font-size: 64px;
+}
