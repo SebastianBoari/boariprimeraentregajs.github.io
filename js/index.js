@@ -1,8 +1,9 @@
 // PRIMERA ENTREGA DE PROYECTO FINAL
 
-// Voy a realizar un ejercicio simple pero creo que el proyecto final lo voy a basar en una WeatherApp para que me sirva para mi portfolio.
+// Voy a realizar un ejercicio simple pero creo que el proyecto final lo voy a basar en un clon de twitter, tal vez si no lo logro lo cambie a un weatherapp
+// para que me sirva para mi portfolio.
 // Nuestra profesora nos dejo unas ideas para poder entregar algo que cumpla con todos los requisitos de la consigna. 
-// Una propuesta era hacer un login, voy a seguir esa idea porque la verdad no se como encarar la Weather App con lo que vi en las clases aun.
+// Una propuesta era hacer un login, voy a seguir esa idea porque la verdad no se como encarar otro proyecto con lo que vi en las clases aun.
 
 let userMail = prompt( "Ingrese su mail: " ); // MAIL CARGADO
 let userName = prompt( "ingrese su nombre: " ); // NOMBRE CARGADO
@@ -55,7 +56,7 @@ pswChecker ( userPsw )
 mailChecker ( userMail );
 logUser ( loginAction );
 
-    
+
 
 
 
